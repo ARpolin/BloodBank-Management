@@ -1,0 +1,10 @@
+C:\Users\Polin\documents\visual studio 2012\Projects\SearchRearBlood\SearchRearBlood\bin\Debug\SearchRearBlood.exe.config
+C:\Users\Polin\documents\visual studio 2012\Projects\SearchRearBlood\SearchRearBlood\obj\Debug\SearchRearBlood.exe
+C:\Users\Polin\documents\visual studio 2012\Projects\SearchRearBlood\SearchRearBlood\obj\Debug\SearchRearBlood.pdb
+C:\Users\Polin\documents\visual studio 2012\Projects\SearchRearBlood\SearchRearBlood\bin\Debug\SearchRearBlood.exe
+C:\Users\Polin\documents\visual studio 2012\Projects\SearchRearBlood\SearchRearBlood\bin\Debug\SearchRearBlood.pdb
+C:\Users\Polin\documents\visual studio 2012\Projects\SearchRearBlood\SearchRearBlood\obj\Debug\SearchRearBlood.csprojResolveAssemblyReference.cache
+C:\Users\Polin\documents\visual studio 2012\Projects\SearchRearBlood\SearchRearBlood\obj\Debug\SearchRearBlood.Form1.resources
+C:\Users\Polin\documents\visual studio 2012\Projects\SearchRearBlood\SearchRearBlood\obj\Debug\SearchRearBlood.Properties.Resources.resources
+C:\Users\Polin\documents\visual studio 2012\Projects\SearchRearBlood\SearchRearBlood\obj\Debug\SearchRearBlood.csproj.GenerateResource.Cache
+C:\Users\Polin\documents\visual studio 2012\Projects\SearchRearBlood\SearchRearBlood\obj\Debug\SearchRearBlood.Starting.resources
